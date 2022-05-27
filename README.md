@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# React-Js GoogleMaps
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center" style="font-size: 30px; font-weight: bold; margin-bottom: 32px">
+  Desafio Syonet.
+</h3>
 
-## Available Scripts
 
-In the project directory, you can run:
+---
 
-### `npm start`
+# :bookmark_tabs: Índice
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  - [:clipboard: Sobre](#clipboard-Sobre)
+  - [:computer: Tecnologias](#computer-Tecnologias)
+  - [:bookmark_tabs: Requisitos](#bookmark_tabs-Requisitos)
+  - [:file_folder: Como instalar](#file_folder-Como-instalar-e-usar)
+  - [:alien: Autor](#alien-Autor)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :clipboard: Esse projeto é baseado no googleMaps.
 
-### `npm run build`
+Este projeto foi feito com um objetivo - Fazer a localização do cliente local.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
+## :computer: Tecnologias
+* [ReactJs](https://pt-br.reactjs.org/)
+* [JavaScript](https://www.javascript.com/)
+* [NodeJs](https://www.nodejs.org/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :bookmark_tabs: Requisitos
+Para executar este projeto, você precisa do [ReactJs](https://pt-br.reactjs.org/) e do [NodeJs](https://nodejs.org/en/) instalado em seu dispositivo.
+É recomendável usar um editor de código como [VsCode](https://code.visualstudio.com/).
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## :file_folder: Como Instalar e usar
+* Primeiro clone o repositório com o comando abaixo:
+```bash
+    # Usando o Git bash, clone o repositório
+    $ git clone https://github.com/guiifarias/React-JS-googlemaps
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Depois disso, entre na pasta principal do projeto.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+* Em seguida, instale todas as dependências usando o comando.
+    $ cd npm i 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
 
-## Learn More
+```bash
+    # Instalando todas as dependências
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* No terminal, use o comando `npm start` para permitir que o projeto seja executado.
 
-### Code Splitting
+```bash
+    # npm start
+    $ Iniciando o projeto
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+* Em seguida, abra seu navegador ( ou utilize algum programa como o insomnia por exemplo ) url : (http://localhost:3000/)
+  
+```bash
+    # O projeto será executado na porta:3000
 
-### Analyzing the Bundle Size
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## :alien: Autor
 
-### Making a Progressive Web App
+ <sub><b style="font-size: 22px">Guilherme Farias</b></sub>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feito com ❤️ por **Guilherme Farias**
