@@ -1,7 +1,7 @@
 # React-Js GoogleMaps
 
 <h3 align="center" style="font-size: 30px; font-weight: bold; margin-bottom: 32px">
-  Desafio Syonet.
+  Google-Maps React Js.
 </h3>
 
 
