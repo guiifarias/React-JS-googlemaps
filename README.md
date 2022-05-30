@@ -1,7 +1,8 @@
-# React-Js GoogleMaps
+<h1 align="center" style="font-size: 30px; font-weight: bold; margin-bottom: 32px">
+  Google-Maps React js </h1>
 
 <h3 align="center" style="font-size: 30px; font-weight: bold; margin-bottom: 32px">
-  Google-Maps React Js.
+  Google-Maps
 </h3>
 
 
